@@ -26,7 +26,7 @@ A lightweight Python utility that lives in your Windows system tray and lets you
 ## Usage
 Run the script:
   ```bash
-  python DeskSwitch.py
+  python desk_switch.py
   ``` 
 - **A tray icon will appear.**  
 - **Swap Desktop switches you between virtual desktop 1 and 2.**
