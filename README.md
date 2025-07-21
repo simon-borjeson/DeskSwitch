@@ -5,7 +5,7 @@ A lightweight Python utility that lives in your Windows system tray and lets you
 
 ## Features
 
-- **One-click Tray ico desktop swap**  
+- **One-click Tray icon desktop swap**  
   Quickly toggle between Desktop 1 and Desktop 2 from the tray menu.
 - **Minimal dependencies**  
   Built on top of [pystray](https://pypi.org/project/pystray/), [Pillow](https://pypi.org/project/Pillow/), and [pyvda](https://pypi.org/project/pyvda/).
